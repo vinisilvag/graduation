@@ -1,2 +1,2 @@
 # graduation
-Trabalhos desenvolvidos ao longo da graduação em Ciência da Computação na UFMG.
+Trabalhos, arquivos e códigos relacionados a graduação em Ciência da Computação na UFMG.
