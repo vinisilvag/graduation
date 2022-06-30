@@ -18,3 +18,9 @@ set number
 set cursorline
 set title
 set ruler
+
+inoremap { {}<Esc>ha
+inoremap ( ()<Esc>ha
+inoremap [ []<Esc>ha
+inoremap " ""<Esc>ha
+inoremap ' ''<Esc>ha
